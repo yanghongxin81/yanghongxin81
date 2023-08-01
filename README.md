@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yanghongxin81
+- 👀 I’m interested in Software Engineering. I’m currently learning Go.
+- 🌱 Interested in system design and creating efficient, scalable solutions.
